@@ -137,14 +137,26 @@
 </article>
 <section class="mx-auto max-w-[1120px] px-5 py-10">
 <h2 class="text-xl font-bold text-[#F4F6FA]">Другие статьи</h2>
-<div class="mt-4 grid gap-5 sm:grid-cols-2">
-<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszobu91.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/39d9d67df_generated_image.png" alt="Текила доставка Центральный район круглосуточно в Санкт-Петербурге" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA] transition group-hover:text-[#D4AF37]">Текила доставка Центральный район круглосуточно в Санкт-Петербурге</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная текила доставка Центральный район в любое время суток. Широкий ассор...</p></div></a><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo4717.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)">
-<div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/3d106da32_generated_image.png" alt="Текила доставка Центральный район круглосуточно: заказ напитков в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div>
-<div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA] transition group-hover:text-[#D4AF37]">Текила доставка Центральный район круглосуточно: заказ напитков в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная доставка текилы в Центральном районе Санкт-Петербурга круглосуточно. Широкий ассортимент, выгодные цены и быстрый заказ качественных напитков на дом.</p></div>
-</a><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo5r34.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)">
-<div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/41521da51_generated_image.png" alt="Текила доставка Центральный район круглосуточно: заказать напитки в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div>
-<div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA] transition group-hover:text-[#D4AF37]">Текила доставка Центральный район круглосуточно: заказать напитки в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Профессиональная текила доставка Центральный район в Санкт-Петербурге. Заказывайте напитки из каталога круглосуточно. Быстрое оформление и широкий ассортимент.</p></div>
-</a></div>
+<div id="other-articles-grid" class="mt-4 grid gap-5 sm:grid-cols-2"></div>
+<script>
+(function(){
+  var grid = document.getElementById("other-articles-grid");
+  var selfUrl = window.location.href.split("#")[0].split("?")[0];
+  fetch("./articles_index.json").then(function(r){ return r.json(); }).then(function(data){
+    var arts = (data.articles || []).filter(function(a){ return a.canonical !== selfUrl; });
+    arts.sort(function(a,b){ return new Date(b.published_at) - new Date(a.published_at); });
+    var top = arts.slice(0, 4);
+    if (top.length === 0) { grid.innerHTML = '<p style="color:rgba(244,246,250,0.5);font-size:14px">Скоро появятся новые статьи</p>'; return; }
+    grid.innerHTML = top.map(function(a){
+      return '<a href="'+a.canonical+'" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)">'+
+        '<div style="aspect-ratio:16/9;overflow:hidden"><img src="'+a.image+'" alt="'+a.title+'" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div>'+
+        '<div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">'+(a.category||"")+'</span>'+
+        '<h3 class="mt-2 font-bold text-[#F4F6FA] transition group-hover:text-[#D4AF37]">'+a.title+'</h3>'+
+        '<p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">'+(a.description||"").substring(0,90)+'...</p></div></a>';
+    }).join("");
+  }).catch(function(){ grid.innerHTML = ''; });
+})();
+</script>
 </section>
 <footer class="mt-20 px-5 py-10" style="border-top:1px solid rgba(255,255,255,0.08)">
 <div class="mx-auto grid max-w-[1120px] gap-8 md:grid-cols-3">
