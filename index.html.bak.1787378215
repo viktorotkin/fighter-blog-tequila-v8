@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#07080D">
+<title>ДринкГид — напитки с доставкой в СПб. Текила, виски, вино | 18+</title>
+<meta name="description" content="Гид по напиткам с доставкой в Санкт-Петербурге. Текила, виски, вино, коньяк — обзоры, рекомендации и советы. Круглосуточная доставка в любой район СПб.">
+<meta name="robots" content="index,follow">
+<meta name="rating" content="adult">
+<meta name="age" content="18">
+<link rel="canonical" href="https://viktorotkin.github.io/fighter-blog-tequila-v8/">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍷</text></svg>">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:site_name" content="ДринкГид">
+<meta property="og:title" content="ДринкГид — напитки с доставкой в СПб">
+<meta property="og:description" content="Гид по напиткам с доставкой в Санкт-Петербурге. Текила, виски, вино, коньяк — обзоры и рекомендации.">
+<meta property="og:image" content="https://media.base44.com/images/public/6a67c058aed75ccd15172d69/4e3a76088_generated_image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://media.base44.com">
+<link rel="stylesheet" href="./assets/index-hqKVg3wp.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "ДринкГид",
+      "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/",
+      "description": "Гид по напиткам с доставкой в Санкт-Петербурге",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://viktorotkin.github.io/admiralt-market/catalog?q={query}",
+        "query-input": "required name=query"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Как заказать доставку напитков?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Оформите заказ через Telegram или по телефону +7 (812) 199-19-90. Курьер доставит в течение часа в любой район СПб."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "В какие районы Санкт-Петербурга производится доставка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "По всем районам: Центральный, Адмиралтейский, Василеостровский, Петроградский и другим."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сколько стоит доставка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Зависит от района и суммы заказа. Подробности у оператора в Telegram."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Работаете ли вы круглосуточно?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да, работаем 24/7. Заказы принимаются в любое время."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "numberOfItems": 27,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3eooi6.html",
+          "name": "Текила Sauza с доставкой в Василеостровском районе"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3eo6pd.html",
+          "name": "Текила Sauza с доставкой в Адмиралтейском районе"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3en0fs.html",
+          "name": "Текила Olmeca доставка Василеостровский район — заказ онлайн"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3em5sp.html",
+          "name": "Текила Olmeca доставка Адмиралтейский район"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3e1pmn.html",
+          "name": "Текила Olmeca доставка Центральный район | Быстрая доставка"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3d4kdw.html",
+          "name": "Текила доставка Центральный район Санкт-Петербурга"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3cb99f.html",
+          "name": "Текила Olmeca доставка Петроградский район"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3brcb8.html",
+          "name": "Текила доставка Василеостровский район — закажите быстро"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3bomq9.html",
+          "name": "Текила доставка Адмиралтейский район: лучшие варианты и советы"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3bcthp.html",
+          "name": "Текила Sauza с доставкой в Петроградском районе: премиальный вкус у вас дома"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/d01-mt0z74tr.html",
+          "name": "Текила доставка Центральный район: круглосуточный заказ в Санкт-Петербурге"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/d01-mt0xmhj7.html",
+          "name": "Текила доставка Центральный район: заказ напитков круглосуточно в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0ufhyq.html",
+          "name": "Водка Царская доставка Центральный район: заказ напитков круглосуточно в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0ue6tl.html",
+          "name": "Водка Старый Кёнигсберг доставка Центральный район: заказ 24/7 в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0uctb2.html",
+          "name": "Водка Старейшина доставка Центральный район СПб: заказ круглосуточно"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0ub28o.html",
+          "name": "Водка Tundra доставка Центральный район круглосуточно в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u9osw.html",
+          "name": "Водка Finlandia доставка Центральный район: круглосуточно в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u8dic.html",
+          "name": "Водка Beluga доставка Центральный район в Санкт-Петербурге 24/7"
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u6zol.html",
+          "name": "Водка доставка Центральный район круглосуточно в СПб: заказ напитков"
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u47ch.html",
+          "name": "Виски доставка Невский район — заказать круглосуточно в Санкт-Петербурге"
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszq6pzm.html",
+          "name": "Текила Olmeca отзывы Красногвардейский район: доставка круглосуточно"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszot1fe.html",
+          "name": "Текила доставка Красногвардейский район: заказ напитков круглосуточно в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszodk4e.html",
+          "name": "Текила доставка Центральный район СПб: круглосуточный заказ на дом"
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszobu91.html",
+          "name": "Текила доставка Центральный район круглосуточно в Санкт-Петербурге"
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo7i47.html",
+          "name": "Текила доставка Центральный район СПб: круглосуточный заказ напитков"
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo5r34.html",
+          "name": "Текила доставка Центральный район круглосуточно: заказать напитки в СПб"
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "url": "https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo4717.html",
+          "name": "Текила доставка Центральный район круглосуточно: заказ напитков в СПб"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Главная",
+          "item": "https://viktorotkin.github.io/fighter-blog-tequila-v8/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+<style>.catalog-btn-shine{position:relative;overflow:hidden}.catalog-btn-shine::after{content:"";position:absolute;top:0;left:-75%;width:50%;height:100%;background:linear-gradient(120deg,transparent,rgba(255,255,255,0.55),transparent);transform:skewX(-20deg);animation:shine 2.8s infinite}@keyframes shine{0%{left:-75%}100%{left:125%}}</style>
+</head>
+<body>
+<div class="flex justify-center gap-6 flex-wrap" style="background:rgba(212,175,55,0.08);color:rgba(244,246,250,0.65);font-size:12px;padding:8px 16px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.05)"><span>18+ · Чрезмерное употребление вредит вашему здоровью</span><span>Только для лиц старше 18 лет</span></div>
+<header class="sticky top-0 z-40 backdrop-blur-xl" style="background:rgba(7,8,13,0.72);border-bottom:1px solid rgba(255,255,255,0.08)">
+<div class="mx-auto flex max-w-[1120px] items-center justify-between gap-4 px-5 py-3.5">
+<a href="./" class="flex items-center gap-2.5"><div style="width:42px;height:42px;border-radius:11px;background:linear-gradient(135deg,rgba(212,175,55,0.15) 0%,rgba(255,215,0,0.1) 50%,rgba(184,134,11,0.15) 100%);border:1px solid rgba(212,175,55,0.3);display:flex;align-items:center;justify-content:center;flex-shrink:0"><svg viewBox="0 0 32 32" width="26" height="26" fill="none"><path d="M8 6h16l-2 10a6 6 0 01-12 0L8 6z" stroke="#D4AF37" stroke-width="2" fill="rgba(212,175,55,0.1)"/><path d="M16 22v4M12 28h8" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/></svg></div><div class="leading-tight"><div class="text-[1.05rem] font-extrabold tracking-tight text-[#F4F6FA]">ДринкГид</div><div class="text-[0.625rem] uppercase tracking-[0.18em] text-[rgba(244,246,250,0.45)]">гид по напиткам</div></div></a>
+<div class="hidden flex-1 max-w-md items-center relative md:flex" style="opacity:0.85";background:radial-gradient(ellipse at top, rgba(212,175,55,0.03) 0%, transparent 60%)>
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="rgba(244,246,250,0.45)" stroke-width="2" style="position:absolute;left:11px;top:50%;transform:translateY(-50%);z-index:1">
+    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+  </svg>
+  <input type="text" id="article-search" placeholder="Поиск по статьям..." aria-label="Поиск по статьям" style="display:block;width:100%;border-radius:12px;border:1px solid rgba(255,255,255,0.08);background:rgba(255,255,255,0.03);padding:10px 12px 10px 34px;font-size:14px;color:rgba(244,246,250,0.7);outline:none">
+</div>
+<script>
+(function(){
+  var input=document.getElementById("article-search");
+  if(!input)return;
+  input.addEventListener("input",function(){
+    var q=this.value.toLowerCase().trim();
+    var cards=document.querySelectorAll('a.block.overflow-hidden.rounded-2xl');
+    cards.forEach(function(c){
+      var h3=c.querySelector("h3");
+      if(!h3){c.style.display=q?"none":"";return;}
+      var match=h3.textContent.toLowerCase().indexOf(q)>-1;
+      c.style.display=match?"":"none";
+    });
+  });
+})();
+</script>
+<nav class="hidden items-center gap-1.5 lg:flex"><a href="https://viktorotkin.github.io/admiralt-market/catalog" rel="nofollow" target="_blank" class="catalog-btn-shine rounded-lg px-4 py-2 text-[0.8125rem] font-bold transition active:scale-95" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 2px 10px rgba(212,175,55,0.35)">Смотреть каталог</a></nav>
+</div></header>
+<main class="mx-auto max-w-[1120px] px-5 py-10">
+<nav class="flex flex-wrap items-center gap-1.5 text-sm"><span class="flex items-center gap-1.5"><span class="text-[#F4F6FA] font-medium">Главная</span></span></nav>
+<span class="inline-flex items-center rounded-full px-3 py-1 text-xs font-bold uppercase tracking-wider text-[#D4AF37]" style="background:rgba(212,175,55,0.1);border:1px solid rgba(212,175,55,0.35)">ДринкГид</span>
+<h1 class="h1-gold-gradient mt-3 font-extrabold tracking-tight" style="font-size:clamp(1.5rem,4vw,2.25rem)">Напитки с доставкой в СПб</h1>
+<div class="mt-3 flex items-center gap-2 text-xs text-[rgba(244,246,250,0.4)]"><span>Редакция ДринкГид</span><span>·</span><span>Каталог статей</span></div>
+<p class="lead-paragraph mt-6">Добро пожаловать на ДринкГид — гид по напиткам с доставкой в Санкт-Петербурге. Мы публикуем обзоры и рекомендации по выбору текилы, виски, вина, коньяка и других напитков. Каждая статья — подробный разбор: вкус, аромат, варианты употребления, советы по выбору и хранению. Все напитки можно заказать с круглосуточной курьерской доставкой в любой район СПб. Быстро, удобно, по честным ценам. Мы работаем 24/7 — заказывайте в удобное время, доставим в течение часа.</p>
+<a href="https://viktorotkin.github.io/admiralt-market/catalog" rel="nofollow" target="_blank" class="catalog-btn-shine mt-6 inline-flex items-center justify-center gap-2 rounded-xl px-7 py-4 text-base font-bold transition active:scale-95" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 4px 20px rgba(212,175,55,0.35)">Смотреть каталог</a>
+<div class="mt-8 mx-auto max-w-[800px] flex gap-3 rounded-2xl border p-4" style="background:rgba(212,175,55,0.06);border-color:rgba(212,175,55,0.2)"><div class="text-2xl">🍷</div><div><p class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">20+ статей · Доставка 24/7</p><p class="mt-1 text-sm text-[rgba(244,246,250,0.7)]">Обзоры напитков, советы сомелье и рекомендации по выбору. Доставка во все районы СПб — от Центрального до Кронштадтского.</p></div></div>
+<h2 class="text-xl font-bold text-[#F4F6FA]" style="margin-top:2.5rem">Все статьи</h2>
+<div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3eooi6.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/25bb07134_generated_image.png" alt="Текила Sauza с доставкой в Василеостровском районе" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Sauza с доставкой в Василеостровском районе</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Sauza с доставкой в Василеостровский район. Быстрая доставка, удобная опла...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3eo6pd.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/0d7f9e228_generated_image.png" alt="Текила Sauza с доставкой в Адмиралтейском районе" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Sauza с доставкой в Адмиралтейском районе</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Sauza с быстрой доставкой в Адмиралтейском районе Санкт-Петербурга. Широки...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3en0fs.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/7c14389bf_generated_image.png" alt="Текила Olmeca доставка Василеостровский район — заказ онлайн" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Olmeca доставка Василеостровский район — заказ онлайн</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Olmeca с доставкой в Василеостровский район. Быстрая доставка, удобная опл...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3em5sp.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/07c58c209_generated_image.png" alt="Текила Olmeca доставка Адмиралтейский район" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Olmeca доставка Адмиралтейский район</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Olmeca с доставкой в Адмиралтейском районе Санкт-Петербурга. Быстрая доста...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3e1pmn.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/5436b1540_generated_image.png" alt="Текила Olmeca доставка Центральный район | Быстрая доставка" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Olmeca доставка Центральный район | Быстрая доставка</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Olmeca с доставкой в Центральный район СПб. Широкий ассортимент, быстрая д...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3d4kdw.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/92dc15c19_generated_image.png" alt="Текила доставка Центральный район Санкт-Петербурга" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район Санкт-Петербурга</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу с доставкой в Центральный район СПб. Быстрая доставка, широкий выбор, удоб...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3cb99f.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/42a21d95d_generated_image.png" alt="Текила Olmeca доставка Петроградский район" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Olmeca доставка Петроградский район</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Olmeca с доставкой в Петроградский район. Быстрая курьерская доставка по С...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3brcb8.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/ab12b6aa4_generated_image.png" alt="Текила доставка Василеостровский район — закажите быстро" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Василеостровский район — закажите быстро</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Купить текилу с доставкой в Василеостровском районе СПб. Широкий выбор, быстрая доставка. ...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3bomq9.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/244fe00e1_generated_image.png" alt="Текила доставка Адмиралтейский район: лучшие варианты и советы" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Адмиралтейский район: лучшие варианты и советы</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Ищете текилу с доставкой в Адмиралтейском районе? Узнайте о лучших сервисах, видах текилы ...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3bcthp.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/3ab28c05b_generated_image.png" alt="Текила Sauza с доставкой в Петроградском районе: премиальный вкус у вас дома" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Sauza с доставкой в Петроградском районе: премиальный вкус у вас дома</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Закажите текилу Sauza с доставкой в Петроградском районе. Быстрая курьерская доставка, шир...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/d01-mt0z74tr.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/c733fd52c_generated_image.png" alt="Текила доставка Центральный район: круглосуточный заказ в Санкт-Петербурге" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район: круглосуточный заказ в Санкт-Петербурге</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная текила доставка Центральный район круглосуточно. Широкий ассортимент напитков,...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/d01-mt0xmhj7.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/a256c1bb3_generated_image.png" alt="Текила доставка Центральный район: заказ напитков круглосуточно в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район: заказ напитков круглосуточно в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная текила доставка Центральный район круглосуточно. Широкий ассортимент напитков,...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0ufhyq.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/ccf9da5f8_generated_image.png" alt="Водка Царская доставка Центральный район: заказ напитков круглосуточно в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка Царская доставка Центральный район: заказ напитков круглосуточно в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная доставка напитков в Центральном районе СПб. Заказывайте водку Царская круглосу...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0ue6tl.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/07872075b_generated_image.png" alt="Водка Старый Кёнигсберг доставка Центральный район: заказ 24/7 в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка Старый Кёнигсберг доставка Центральный район: заказ 24/7 в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Нужна водка Старый Кёнигсберг доставка Центральный район? Предлагаем круглосуточный сервис...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0uctb2.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/2651da82d_generated_image.png" alt="Водка Старейшина доставка Центральный район СПб: заказ круглосуточно" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка Старейшина доставка Центральный район СПб: заказ круглосуточно</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Ищете, где доступна водка Старейшина доставка Центральный район? Предлагаем круглосуточный...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0ub28o.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/b81fd7341_generated_image.png" alt="Водка Tundra доставка Центральный район круглосуточно в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка Tundra доставка Центральный район круглосуточно в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная водка Tundra доставка Центральный район в Санкт-Петербурге. Заказывайте качест...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u9osw.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/06d75afa2_generated_image.png" alt="Водка Finlandia доставка Центральный район: круглосуточно в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка Finlandia доставка Центральный район: круглосуточно в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная доставка водки Finlandia в Центральном районе Санкт-Петербурга. Заказывайте на...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u8dic.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/6b3fc4f35_generated_image.png" alt="Водка Beluga доставка Центральный район в Санкт-Петербурге 24/7" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка Beluga доставка Центральный район в Санкт-Петербурге 24/7</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная водка Beluga доставка Центральный район. Круглосуточный сервис, широкий ассорт...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u6zol.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/4c6a1e3f0_generated_image.png" alt="Водка доставка Центральный район круглосуточно в СПб: заказ напитков" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#C0C0C0]">Водка</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Водка доставка Центральный район круглосуточно в СПб: заказ напитков</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная водка доставка Центральный район круглосуточно. Большой ассортимент качественн...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt0u47ch.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/41d015394_generated_image.png" alt="Виски доставка Невский район — заказать круглосуточно в Санкт-Петербурге" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#CC7722]">Виски</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Виски доставка Невский район — заказать круглосуточно в Санкт-Петербурге</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная виски доставка Невский район круглосуточно. Широкий ассортимент напитков, быст...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszq6pzm.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/e49e1dae5_generated_image.png" alt="Текила Olmeca отзывы Красногвардейский район: доставка круглосуточно" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила Olmeca отзывы Красногвардейский район: доставка круглосуточно</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Читайте про текила Olmeca отзывы Красногвардейский район и оформляйте заказ с доставкой кр...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszot1fe.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a8483ec3d2419ed3cc13251/0e7eda827_generated_image.png" alt="Текила доставка Красногвардейский район: заказ напитков круглосуточно в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Красногвардейский район: заказ напитков круглосуточно в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Нужна быстрая текила доставка Красногвардейский район? Круглосуточный сервис, большой ката...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszodk4e.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/cb8684a0d_generated_image.png" alt="Текила доставка Центральный район СПб: круглосуточный заказ на дом" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район СПб: круглосуточный заказ на дом</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная текила доставка Центральный район осуществляется круглосуточно. Широкий ассорт...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszobu91.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/097484836_generated_image.png" alt="Текила доставка Центральный район круглосуточно в Санкт-Петербурге" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район круглосуточно в Санкт-Петербурге</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная текила доставка Центральный район в любое время суток. Широкий ассортимент нап...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo7i47.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/c40efd7d9_generated_image.png" alt="Текила доставка Центральный район СПб: круглосуточный заказ напитков" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район СПб: круглосуточный заказ напитков</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная текила доставка Центральный район в Санкт-Петербурге. Широкий ассортимент, кру...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo5r34.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/2483e40d7_generated_image.png" alt="Текила доставка Центральный район круглосуточно: заказать напитки в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район круглосуточно: заказать напитки в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Профессиональная текила доставка Центральный район в Санкт-Петербурге. Заказывайте напитки...</p></div></a>
+<a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mszo4717.html" class="block overflow-hidden rounded-2xl border border-white/8 transition hover:border-[rgba(212,175,55,0.3)]" style="background:rgba(255,255,255,0.03)"><div style="aspect-ratio:16/9;overflow:hidden"><img src="https://media.base44.com/images/public/6a64788cc3f90a73778911c8/f22b3012b_generated_image.png" alt="Текила доставка Центральный район круглосуточно: заказ напитков в СПб" loading="lazy" style="width:100%;height:100%;object-fit:cover"></div><div class="p-5"><span class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">Текила</span><h3 class="mt-2 font-bold text-[#F4F6FA]">Текила доставка Центральный район круглосуточно: заказ напитков в СПб</h3><p class="mt-2 text-sm text-[rgba(244,246,250,0.5)]">Оперативная доставка текилы в Центральном районе Санкт-Петербурга круглосуточно. Широкий а...</p></div></a>
+</div>
+<h2 class="text-xl font-bold text-[#F4F6FA]" style="margin-top:0;border-top:1px solid rgba(255,255,255,0.05);padding-top:2.5rem">Частые вопросы</h2>
+<div class="mt-6 mx-auto max-w-[800px] space-y-3">
+<details class="overflow-hidden rounded-2xl border border-white/8" style="background:rgba(255,255,255,0.03)"><summary class="flex w-full items-center justify-between p-4 text-left font-semibold text-[#F4F6FA]" style="list-style:none;cursor:pointer">Как заказать доставку напитков?<span class="text-[#D4AF37]">+</span></summary><div class="px-4 pb-4 text-sm text-[rgba(244,246,250,0.7)]">Оформите заказ через Telegram или по телефону +7 (812) 199-19-90. Курьер доставит в течение часа в любой район СПб.</div></details>
+<details class="overflow-hidden rounded-2xl border border-white/8" style="background:rgba(255,255,255,0.03)"><summary class="flex w-full items-center justify-between p-4 text-left font-semibold text-[#F4F6FA]" style="list-style:none;cursor:pointer">В какие районы Санкт-Петербурга производится доставка?<span class="text-[#D4AF37]">+</span></summary><div class="px-4 pb-4 text-sm text-[rgba(244,246,250,0.7)]">По всем районам: Центральный, Адмиралтейский, Василеостровский, Петроградский и другим.</div></details>
+<details class="overflow-hidden rounded-2xl border border-white/8" style="background:rgba(255,255,255,0.03)"><summary class="flex w-full items-center justify-between p-4 text-left font-semibold text-[#F4F6FA]" style="list-style:none;cursor:pointer">Сколько стоит доставка?<span class="text-[#D4AF37]">+</span></summary><div class="px-4 pb-4 text-sm text-[rgba(244,246,250,0.7)]">Зависит от района и суммы заказа. Подробности у оператора в Telegram.</div></details>
+<details class="overflow-hidden rounded-2xl border border-white/8" style="background:rgba(255,255,255,0.03)"><summary class="flex w-full items-center justify-between p-4 text-left font-semibold text-[#F4F6FA]" style="list-style:none;cursor:pointer">Работаете ли вы круглосуточно?<span class="text-[#D4AF37]">+</span></summary><div class="px-4 pb-4 text-sm text-[rgba(244,246,250,0.7)]">Да, работаем 24/7. Заказы принимаются в любое время.</div></details>
+</div>
+<h2 class="text-xl font-bold text-[#F4F6FA]" style="margin-top:0;border-top:1px solid rgba(255,255,255,0.05);padding-top:2.5rem">Связаться с нами</h2>
+<div class="mt-6 mx-auto max-w-[800px] flex gap-3 flex-wrap">
+<a href="https://t.me/alkobelka199" target="_blank" rel="noopener noreferrer nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold min-w-[200px]" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 4px 16px rgba(212,175,55,0.35)">Telegram</a>
+<a href="https://wa.me/78121991990" target="_blank" rel="noopener noreferrer nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold min-w-[200px]" style="background:rgba(255,255,255,0.03);border:1px solid rgba(212,175,55,0.4);color:#D4AF37">WhatsApp</a>
+<a href="tel:78121991990" rel="nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold min-w-[200px]" style="background:rgba(255,255,255,0.03);border:1px solid rgba(212,175,55,0.4);color:#D4AF37">+7 (812) 199-19-90</a>
+</div>
+
+<footer class="mt-20 px-5 py-10" style="border-top:1px solid rgba(255,255,255,0.08)">
+<div class="mx-auto grid max-w-[1120px] gap-8 md:grid-cols-3">
+<div>
+<div class="flex items-center gap-2.5"><div style="width:42px;height:42px;border-radius:11px;background:linear-gradient(135deg,rgba(212,175,55,0.15) 0%,rgba(255,215,0,0.1) 50%,rgba(184,134,11,0.15) 100%);border:1px solid rgba(212,175,55,0.3);display:flex;align-items:center;justify-content:center;flex-shrink:0"><svg viewBox="0 0 32 32" width="26" height="26" fill="none"><path d="M8 6h16l-2 10a6 6 0 01-12 0L8 6z" stroke="#D4AF37" stroke-width="2" fill="rgba(212,175,55,0.1)"/><path d="M16 22v4M12 28h8" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/></svg></div><div class="font-extrabold tracking-tight text-[#F4F6FA]">ДринкГид</div></div>
+<p class="mt-3 text-xs leading-relaxed text-[rgba(244,246,250,0.58)]">Гид по напиткам и коктейлям. 18+</p>
+</div>
+<div>
+<h4 class="text-xs font-bold uppercase tracking-wider text-[rgba(244,246,250,0.58)]">Статьи</h4>
+<ul class="mt-3 space-y-1.5">
+<li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3eooi6.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила Sauza с доставкой в Василеостровском районе</a></li><li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3eo6pd.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила Sauza с доставкой в Адмиралтейском районе</a></li><li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3en0fs.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила Olmeca доставка Василеостровский район — заказ онлайн</a></li><li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3em5sp.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила Olmeca доставка Адмиралтейский район</a></li>
+<li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3e1pmn.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила Olmeca доставка Центральный район | Быстрая доставка</a></li><li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3d4kdw.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила доставка Центральный район Санкт-Петербурга</a></li><li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3cb99f.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила Olmeca доставка Петроградский район</a></li><li><a href="https://viktorotkin.github.io/fighter-blog-tequila-v8/tequila-mt3brcb8.html" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Текила доставка Василеостровский район — закажите быстро</a></li></ul>
+</div>
+<div>
+<div>
+<h4 class="text-xs font-bold uppercase tracking-wider text-[rgba(244,246,250,0.58)]">Контакты</h4>
+<ul class="mt-3 space-y-1.5">
+<li><a href="https://t.me/drinkgid" rel="nofollow" class="text-xs text-[rgba(244,246,250,0.68)] transition hover:text-[#D4AF37]">Telegram</a></li>
+</ul>
+</div>
+</div>
+<div class="mx-auto mt-8 flex max-w-[1120px] flex-col gap-2 pt-5 text-[0.7rem] text-[rgba(244,246,250,0.45)]" style="border-top:1px solid rgba(255,255,255,0.08)">
+<p>18+ Чрезмерное употребление напитков вредит вашему здоровью.</p>
+<p>&copy; 2026 ДринкГид. Информационный портал.</p>
+</div>
+<div class="mx-auto mt-8 max-w-[1120px] text-center"><a href="./sitemap.xml" class="text-xs text-[rgba(244,246,250,0.4)] hover:text-[#D4AF37] transition">Sitemap</a></div>
+</footer>
+<a href="https://t.me/alkobelka199" target="_blank" rel="noopener noreferrer nofollow" class="fixed bottom-5 right-5 z-50 flex h-14 w-14 items-center justify-center rounded-full transition active:scale-95 md:hidden" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);box-shadow:0 4px 16px rgba(212,175,55,0.4)"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.31-5.9c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.75 1.12-1.52.71L12 17.33l-1.99 1.93c-.23.23-.42.42-.86.42z"/></svg></a>
+</body>
+</html>
