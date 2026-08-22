@@ -262,7 +262,7 @@
 <header class="sticky top-0 z-40 backdrop-blur-xl" style="background:rgba(7,8,13,0.72);border-bottom:1px solid rgba(255,255,255,0.08)">
 <div class="mx-auto flex max-w-[1120px] items-center justify-between gap-4 px-5 py-3.5">
 <a href="./" class="flex items-center gap-2.5"><div style="width:42px;height:42px;border-radius:11px;background:linear-gradient(135deg,rgba(212,175,55,0.15) 0%,rgba(255,215,0,0.1) 50%,rgba(184,134,11,0.15) 100%);border:1px solid rgba(212,175,55,0.3);display:flex;align-items:center;justify-content:center;flex-shrink:0"><svg viewBox="0 0 32 32" width="26" height="26" fill="none"><path d="M8 6h16l-2 10a6 6 0 01-12 0L8 6z" stroke="#D4AF37" stroke-width="2" fill="rgba(212,175,55,0.1)"/><path d="M16 22v4M12 28h8" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/></svg></div><div class="leading-tight"><div class="text-[1.05rem] font-extrabold tracking-tight text-[#F4F6FA]">ДринкГид</div><div class="text-[0.625rem] uppercase tracking-[0.18em] text-[rgba(244,246,250,0.45)]">гид по напиткам</div></div></a>
-<div class="hidden flex-1 max-w-md items-center relative md:flex" style="opacity:0.85">
+<div class="hidden flex-1 max-w-md items-center relative md:flex" style="opacity:0.85";background:radial-gradient(ellipse at top, rgba(212,175,55,0.03) 0%, transparent 60%)>
   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="rgba(244,246,250,0.45)" stroke-width="2" style="position:absolute;left:11px;top:50%;transform:translateY(-50%);z-index:1">
     <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
   </svg>
@@ -272,8 +272,7 @@
 (function(){
   var input=document.getElementById("article-search");
   if(!input)return;
-  var params=new URLSearchParams(location.search);if(params.get("q")){input.value=params.get("q");input.dispatchEvent(new Event("input"));}
-    input.addEventListener("input",function(){
+  input.addEventListener("input",function(){
     var q=this.value.toLowerCase().trim();
     var cards=document.querySelectorAll('a.block.overflow-hidden.rounded-2xl');
     cards.forEach(function(c){
@@ -285,7 +284,7 @@
   });
 })();
 </script>
-<nav class="flex items-center gap-1.5"><a href="https://viktorotkin.github.io/admiralt-market/catalog" rel="nofollow" target="_blank" class="catalog-btn-shine rounded-lg px-4 py-2 text-[0.8125rem] font-bold transition active:scale-95" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 2px 10px rgba(212,175,55,0.35)">Смотреть каталог</a></nav>
+<nav class="hidden items-center gap-1.5 lg:flex"><a href="https://viktorotkin.github.io/admiralt-market/catalog" rel="nofollow" target="_blank" class="catalog-btn-shine rounded-lg px-4 py-2 text-[0.8125rem] font-bold transition active:scale-95" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 2px 10px rgba(212,175,55,0.35)">Смотреть каталог</a></nav>
 </div></header>
 <main class="mx-auto max-w-[1120px] px-5 py-10">
 <nav class="flex flex-wrap items-center gap-1.5 text-sm"><span class="flex items-center gap-1.5"><span class="text-[#F4F6FA] font-medium">Главная</span></span></nav>
@@ -293,7 +292,7 @@
 <h1 class="h1-gold-gradient mt-3 font-extrabold tracking-tight" style="font-size:clamp(1.5rem,4vw,2.25rem)">Напитки с доставкой в СПб</h1>
 <div class="mt-3 flex items-center gap-2 text-xs text-[rgba(244,246,250,0.4)]"><span>Редакция ДринкГид</span><span>·</span><span>Каталог статей</span></div>
 <p class="lead-paragraph mt-6">Добро пожаловать на ДринкГид — гид по напиткам с доставкой в Санкт-Петербурге. Мы публикуем обзоры и рекомендации по выбору текилы, виски, вина, коньяка и других напитков. Каждая статья — подробный разбор: вкус, аромат, варианты употребления, советы по выбору и хранению. Все напитки можно заказать с круглосуточной курьерской доставкой в любой район СПб. Быстро, удобно, по честным ценам. Мы работаем 24/7 — заказывайте в удобное время, доставим в течение часа.</p>
-<a href="https://t.me/drinkgid" rel="nofollow" target="_blank" class="catalog-btn-shine mt-6 inline-flex items-center justify-center gap-2 rounded-xl px-10 py-4 text-base font-bold transition active:scale-95 w-full sm:w-auto" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 4px 20px rgba(212,175,55,0.35)">Заказать в Telegram</a>
+<a href="https://viktorotkin.github.io/admiralt-market/catalog" rel="nofollow" target="_blank" class="catalog-btn-shine mt-6 inline-flex items-center justify-center gap-2 rounded-xl px-7 py-4 text-base font-bold transition active:scale-95" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 4px 20px rgba(212,175,55,0.35)">Смотреть каталог</a>
 <div class="mt-8 mx-auto max-w-[800px] flex gap-3 rounded-2xl border p-4" style="background:rgba(212,175,55,0.06);border-color:rgba(212,175,55,0.2)"><div class="text-2xl">🍷</div><div><p class="text-xs font-bold uppercase tracking-wider text-[#D4AF37]">20+ статей · Доставка 24/7</p><p class="mt-1 text-sm text-[rgba(244,246,250,0.7)]">Обзоры напитков, советы сомелье и рекомендации по выбору. Доставка во все районы СПб — от Центрального до Кронштадтского.</p></div></div>
 <h2 class="text-xl font-bold text-[#F4F6FA]" style="margin-top:2.5rem">Все статьи</h2>
 <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -334,13 +333,13 @@
 </div>
 <h2 class="text-xl font-bold text-[#F4F6FA]" style="margin-top:0;border-top:1px solid rgba(255,255,255,0.05);padding-top:2.5rem">Связаться с нами</h2>
 <div class="mt-6 mx-auto max-w-[800px] flex gap-3 flex-wrap">
-<a href="https://t.me/alkobelka199" target="_blank" rel="noopener noreferrer nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold w-full sm:w-auto sm:min-w-[200px] sm:flex-1" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 4px 16px rgba(212,175,55,0.35)">Telegram</a>
-<a href="https://wa.me/78121991990" target="_blank" rel="noopener noreferrer nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold w-full sm:w-auto sm:min-w-[200px] sm:flex-1" style="background:rgba(255,255,255,0.03);border:1px solid rgba(212,175,55,0.4);color:#D4AF37">WhatsApp</a>
-<a href="tel:78121991990" rel="nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold w-full sm:w-auto sm:min-w-[200px] sm:flex-1" style="background:rgba(255,255,255,0.03);border:1px solid rgba(212,175,55,0.4);color:#D4AF37">+7 (812) 199-19-90</a>
+<a href="https://t.me/alkobelka199" target="_blank" rel="noopener noreferrer nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold min-w-[200px]" style="background:linear-gradient(135deg,#D4AF37 0%,#FFD700 50%,#B8860B 100%);color:#07080D;box-shadow:0 4px 16px rgba(212,175,55,0.35)">Telegram</a>
+<a href="https://wa.me/78121991990" target="_blank" rel="noopener noreferrer nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold min-w-[200px]" style="background:rgba(255,255,255,0.03);border:1px solid rgba(212,175,55,0.4);color:#D4AF37">WhatsApp</a>
+<a href="tel:78121991990" rel="nofollow" class="flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-3.5 text-sm font-bold min-w-[200px]" style="background:rgba(255,255,255,0.03);border:1px solid rgba(212,175,55,0.4);color:#D4AF37">+7 (812) 199-19-90</a>
 </div>
 
 <footer class="mt-20 px-5 py-10" style="border-top:1px solid rgba(255,255,255,0.08)">
-<div class="mx-auto grid max-w-[1120px] gap-8 md:grid-cols-2">
+<div class="mx-auto grid max-w-[1120px] gap-8 md:grid-cols-3">
 <div>
 <div class="flex items-center gap-2.5"><div style="width:42px;height:42px;border-radius:11px;background:linear-gradient(135deg,rgba(212,175,55,0.15) 0%,rgba(255,215,0,0.1) 50%,rgba(184,134,11,0.15) 100%);border:1px solid rgba(212,175,55,0.3);display:flex;align-items:center;justify-content:center;flex-shrink:0"><svg viewBox="0 0 32 32" width="26" height="26" fill="none"><path d="M8 6h16l-2 10a6 6 0 01-12 0L8 6z" stroke="#D4AF37" stroke-width="2" fill="rgba(212,175,55,0.1)"/><path d="M16 22v4M12 28h8" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/></svg></div><div class="font-extrabold tracking-tight text-[#F4F6FA]">ДринкГид</div></div>
 <p class="mt-3 text-xs leading-relaxed text-[rgba(244,246,250,0.58)]">Гид по напиткам и коктейлям. 18+</p>
